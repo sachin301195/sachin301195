@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sachin3011b@gmail.com**
 
-- 📄 Resume link [Resume](https://drive.google.com/file/d/1fhyagboMSQs3RviXvqw6hNzKMAnk0W77/view?usp=sharing)
+- 📄 Resume link [Resume](https://drive.google.com/file/d/1AKU6MhgLHdcrXacb6QTtUdTxoQXKSWfZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
