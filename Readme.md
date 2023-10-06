@@ -1,4 +1,4 @@
-![logo](https://github.com/sachin301195/sachin301195/blob/main/Github%20Banner.gif)
+<img align="center" alt="logo" width="1000" src="https://github.com/sachin301195/sachin301195/blob/main/Github%20Banner.gif">
 <h1 align="center">Hi 👋, I'm Sachin Bulchandani</h1>
 <h3 align="center">A passionate Machine Learning Engineer/Data Scientist</h3>
 
