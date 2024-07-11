@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 📫 How to reach me **sachin3011b@gmail.com**
+- 📫 How to reach me **3011sachin@gmail.com**
 
 - 📄 Resume link [Resume](https://drive.google.com/file/d/1AKU6MhgLHdcrXacb6QTtUdTxoQXKSWfZ/view?usp=sharing)
 
