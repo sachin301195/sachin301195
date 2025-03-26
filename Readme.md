@@ -1,45 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body { background: #1a1a1a; color: #00ff00; font-family: monospace; }
-    .dashboard { display: flex; flex-wrap: wrap; gap: 20px; }
-    .component { border: 1px solid #00ff00; padding: 10px; width: 200px; }
-    .component:hover { background: #003300; }
-    .pulse { animation: pulse 1s infinite; }
-    @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
-    .footer { position: fixed; bottom: 10px; }
-  </style>
-</head>
-<body>
-  <h1>Sachin Bulchandani’s E-Commerce Control Room</h1>
-  <div class="dashboard">
-    <div class="component">
-      <h3>Current Mission</h3>
-      <p class="pulse">Energy Consumption Predictor</p>
-      <a href="https://github.com/sachin301195/Energy_Consumption_Predictor" target="_blank">View on GitHub</a>
-    </div>
-    <div class="component" onclick="scalePods()">
-      <h3>EKS</h3>
-      <p id="pods">Pods: 3</p>
-    </div>
-    <div class="component">
-      <h3>System Specs</h3>
-      <p>Powered by: Python, AWS, Docker</p>
-    </div>
-  </div>
-  <div class="footer">
-    <a href="https://github.com/sachin301195" target="_blank">GitHub</a> |
-    <a href="https://www.kaggle.com/sachinbulchandani" target="_blank">Kaggle</a> |
-    <a href="https://drive.google.com/file/d/1AQU8PHeIdrXch60T0uTX0SW7Z/view?usp=sharing" target="_blank">Resume</a>
-  </div>
 
-  <script>
-    function scalePods() {
-      let pods = document.getElementById('pods');
-      pods.innerText = 'Pods: Scaling...';
-      setTimeout(() => pods.innerText = 'Pods: 5', 1000);
-    }
-  </script>
-</body>
-</html>
+<img align="center" alt="logo" width="1000" src="https://github.com/sachin301195/sachin301195/blob/main/Github%20Banner.gif">
+<h1 align="center">Hi 👋, I'm Sachin Bulchandani</h1>
+<h3 align="center">A passionate Machine Learning Engineer/Data Scientist</h3>
+
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yjn7uumj0yysacd96u6jht5247s2by4y1szgqssg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+- 🔭 I’m currently working on [Worldwide Future Energy Consumption](https://github.com/sachin301195/EnergyConsumptionPredictor)
+
+- 🌱 I’m currently learning **NLP**
+
+- 📫 How to reach me **3011sachin@gmail.com**
+
+- 📄 Resume link [Resume](https://drive.google.com/file/d/1AKU6MhgLHdcrXacb6QTtUdTxoQXKSWfZ/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/sachinbulchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sachinbulchandani" height="30" width="40" /></a><a href="https://www.linkedin.com/in/sachin-bulchandani-3b7660141/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sachinbulchandani" height="30" width="40"> </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
